@@ -1,0 +1,6 @@
+python-dotenv
+azure-ai-projects==2.0.0b2
+azure-ai-agents==1.2.0b6
+azure-identity
+openai==2.21.0
+fastmcp==3.0.0
